@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.47c8113a.css",
-    "main.js": "/static/js/main.5ee81659.js",
-    "static/js/233.c4131419.chunk.js": "/static/js/233.c4131419.chunk.js",
-    "static/js/389.131a59d1.chunk.js": "/static/js/389.131a59d1.chunk.js",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/linearicons.svg": "/static/media/linearicons.638c6c05cd657465ff11.svg",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/linearicons.eot": "/static/media/linearicons.eb992e965197b4672140.eot",
-    "static/media/linearicons.woff": "/static/media/linearicons.a78a26fb0b18bc4cde28.woff",
-    "static/media/linearicons.ttf": "/static/media/linearicons.5cbe0a85581dc42087ac.ttf",
-    "static/media/linearicons.woff2": "/static/media/linearicons.857c65d6452680b4f3b1.woff2",
-    "index.html": "/index.html"
+    "main.css": "/my-resume/static/css/main.1cc084b1.css",
+    "main.js": "/my-resume/static/js/main.a69e7401.js",
+    "static/js/233.c4131419.chunk.js": "/my-resume/static/js/233.c4131419.chunk.js",
+    "static/js/389.131a59d1.chunk.js": "/my-resume/static/js/389.131a59d1.chunk.js",
+    "static/media/fa-solid-900.ttf": "/my-resume/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/linearicons.svg": "/my-resume/static/media/linearicons.638c6c05cd657465ff11.svg",
+    "static/media/fa-brands-400.ttf": "/my-resume/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/my-resume/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/my-resume/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/linearicons.eot": "/my-resume/static/media/linearicons.eb992e965197b4672140.eot",
+    "static/media/linearicons.woff": "/my-resume/static/media/linearicons.a78a26fb0b18bc4cde28.woff",
+    "static/media/linearicons.ttf": "/my-resume/static/media/linearicons.5cbe0a85581dc42087ac.ttf",
+    "static/media/linearicons.woff2": "/my-resume/static/media/linearicons.857c65d6452680b4f3b1.woff2",
+    "index.html": "/my-resume/index.html"
   },
   "entrypoints": [
-    "static/css/main.47c8113a.css",
-    "static/js/main.5ee81659.js"
+    "static/css/main.1cc084b1.css",
+    "static/js/main.a69e7401.js"
   ]
 }
